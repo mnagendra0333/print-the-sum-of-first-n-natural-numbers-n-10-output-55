@@ -1,0 +1,1 @@
+# print-the-sum-of-first-n-natural-numbers-n-10-output-55
